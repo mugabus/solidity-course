@@ -46,3 +46,4 @@ contract Twitter {
         return tweets[_owner];
     }
 }
+ // i will repeat this code untill i can it the logic done in my fucking head
